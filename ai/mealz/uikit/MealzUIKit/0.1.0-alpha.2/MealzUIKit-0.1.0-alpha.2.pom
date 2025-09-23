@@ -11,6 +11,7 @@
   <artifactId>MealzUIKit</artifactId>
   <version>0.1.0-alpha.2</version>
   <name>MealzUIKit</name>
+  <packaging>aar</packaging>
   <description>Library to access Mealz Journeys inside android application</description>
   <url>https://github.com/miamtech/MealzUIKitRelease/tree/android</url>
   <developers>
