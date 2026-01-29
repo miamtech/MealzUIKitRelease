@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
     spec.name              = 'MealzUIKit'
-    spec.version           = '0.1.0-alpha.88'
+    spec.version           = '0.1.0-alpha.90'
     spec.summary           = 'Mealz UI Kit library for iOS'
     spec.homepage          = 'https://www.mealz.ai'
        spec.description           = <<-DESC
@@ -10,6 +10,6 @@ Pod::Spec.new do |spec|
     spec.license           = { :type => 'GPLv3', :file => 'LICENSE' }
     spec.swift_versions    = "5.8"
     spec.platform          = :ios, "12.0"
-    spec.source            = { :http => 'https://github.com/miamtech/MealzUIKitRelease/raw/refs/tags/0.1.0-alpha.88/MealzUIKit.zip' }
+    spec.source            = { :http => 'https://github.com/miamtech/MealzUIKitRelease/raw/refs/tags/0.1.0-alpha.90/MealzUIKit.zip' }
     spec.ios.vendored_frameworks = 'MealzUIKit.xcframework'
 end
