@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>ai.mealz.uikit</groupId>
+  <artifactId>shared</artifactId>
+  <version>0.1.0-alpha.104</version>
+  <packaging>aar</packaging>
+  <description>Library to access Mealz Journeys inside android application</description>
+  <url>https://github.com/miamtech/MealzUIKitRelease/tree/android</url>
+  <developers>
+    <developer>
+      <id>mealz</id>
+      <name>Mealz</name>
+      <email>it@miam.tech</email>
+    </developer>
+  </developers>
+</project>
