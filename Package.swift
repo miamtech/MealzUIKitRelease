@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "MealzUIKit",
-            url: "https://github.com/miamtech/MealzUIKitRelease/raw/refs/tags/0.1.0-alpha.131/MealzUIKit.zip",
-            checksum: "ec3888bc5b0919811a9b064b0315a56f3e2cc7ee30b7cd03c0931939d46ab4a3"
+            url: "https://github.com/miamtech/MealzUIKitRelease/raw/refs/tags/0.1.0-alpha.132/MealzUIKit.zip",
+            checksum: "341b238e1bf6d11b95a886d474bd6544e75ff405c998b3edd0928c7e0bfe237f"
         )
     ]
 )
